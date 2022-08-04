@@ -33,9 +33,11 @@ _ Added a calculate button that hides the keyboard and calculates the total
 
 ## Video Walkthrough
 
+http://g.recordit.co/nzNZ6KkEt0.gif
+
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/nzNZ6KkEt0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
