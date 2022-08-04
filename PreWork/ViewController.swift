@@ -84,6 +84,9 @@ class ViewController: UIViewController {
         tipValue = 0.0
         tipAmountLabel.text = String(format: "$%.2f", tipValue)
         totalLabel.text = String(format: "$%.2f", 0.0)
+        splitTextField.text = ""
+        splitTextField.placeholder = "1"
+        tipSliderLabel.value = 0.0
         
     }
     
