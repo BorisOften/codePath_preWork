@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         resetDefaults()
+        self.billAmountTextField.becomeFirstResponder()
     }
     
     override func viewWillAppear(_ animated: Bool) {
